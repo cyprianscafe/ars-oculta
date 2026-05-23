@@ -38,6 +38,16 @@ Como este espaço funciona como um repositório puro de arquivos, o canal aberto
 ---
 
 <p align="center">
+  <samp>🌐 <b>REDE DE ARQUIVOS CIPRIANO</b> 🌐</samp><br>
+  Navegue pelas diferentes prateleiras do acervo público:
+</p>
+
+  📜 <a href="https://github.com/cyprianscafe/scriptorium"><b>Scriptorium</b></a> (Fontes Primárias & Íntegras) <br>
+  🏛️ <a href="https://github.com/cyprianscafe/biblioteca-de-babel"><b>Biblioteca-de-Babel</b></a> (Excertos & Meta-Religião) <br>
+
+---
+
+<p align="center">
   <small><i>"Quod est superius est sicut quod est inferius."</i> <br> 
   Preservando as chaves da Tradição Ocidental.</small>
 </p>
