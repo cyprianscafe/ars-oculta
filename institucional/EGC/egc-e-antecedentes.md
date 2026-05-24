@@ -1,4 +1,4 @@
-# A EGC e Seus Antecedentes
+# ✧ A EGC e Seus Antecedentes ✧
 
 Uma das dificuldades de se falar de forma inteligível sobre a história do nosso atual movimento eucarístico é a tendência dos aderentes de grupos ocultistas e mágicos de evitar a real linhagem histórica de ideias em favor de antecedentes míticos fantásticos. Por exemplo: a crença na fundação da G.’.D.’. a partir de manuscritos cifrados de um grupo Rosa-Cruz continental (manuscritos estes que há muito tempo foram provados como falsificações), levando à ignorância da real transição primária de ideias a partir de Kenneth Mackenzie e da Societas Rosicruciana in Anglia.
 
@@ -11,16 +11,27 @@ As principais contribuições do próprio Crowley para essa tradição podem ser
 Notas: 1. Para mais informações sobre história eclesiástica, o leitor deve consultar a obra de David & Lynn Scriven, Mystery of Mystery: A Primer of Thelemic Ecclesiastical Gnosticism, Red Flame volume 2 em Berkeley, CA: 1995."
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Ocultismo / Thelema / História do Gnosticismo Moderno / Ecclesia Gnostica Catholica (EGC)
-  - **Manuscrito de Origem:** Thelema Lodge Calendar, Jan. 99.
+  - **Formato do Material:** Boletim de Loja
+  - **Linhagem/Tradição:** Thelema / O.T.O. / E.G.C.
   - **Autor:** Frater Baalam
-  - **PA Source:** (GN-E-1)
-  - **Data da tradução:** N/A
-  - **Idioma original:** Inglês
-  - **Palavras-chave adicionais:** Ecclesia Gnostica Catholica, Jules Doinel, Aleister Crowley, Missa Gnóstica, Liber XV, O.T.O., Gérard Encausse, Theodor Reuss
+  - **Origem:** _Thelema Lodge Calendar_, Jan. 99.
+  - **Idioma Original:** Inglês
+  - **Grau de Confiabilidade:** Fragmento Web
+  
+  ### Bastidores da Tradução
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+  - **Shelfmark ID:** SC-WMA-OAI-0003
+
+  ### Conexões e Busca
+  - **Categoria Secundária:** História do Ocultismo Ocidental
+  - **Tags Principais:** Ecclesia Gnostica Catholica, Jules Doinel, O.T.O., Aleister Crowley, Jean Bricaud, Gérard Encausse (Papus), Theodor Reuss, Liber XV, Missa Gnáustica, Cátaros, Golden Dawn, Kenneth Mackenzie
+  - **Tags Adicionais:** Martinismo, Igreja Gnáustica da França, Linhagens Episcopais Vagantes, Esoterismo Francês, Éon de Hórus, Pleroma, Antropologia da Religião
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
