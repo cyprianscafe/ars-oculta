@@ -1,4 +1,4 @@
-# Reconhecimento de Outras Linhagens
+# ✧ Reconhecimento de Outras Linhagens ✧
 
 A A.’.A.’. é simplesmente uma manifestação da 'Grande Fraternidade Branca'. E esse corpo coletivo de indivíduos tem estado, ao longo do tempo, no cerne da iniciação da humanidade. Existe um panteão daqueles Adeptos que provaram pertencer a esse augusto corpo desde tempos imemoriais. E parece que cabe a cada geração forjar seus próprios elos com a corrente, com um número cada vez maior de indivíduos aspirando a isso com o início de cada geração sucessiva.
 
@@ -18,9 +18,9 @@ Nossa linha histórica atual é a seguinte:
 - **Karl Johannes Germer** - Continuou a linhagem da A.’.A.’. e foi responsável pela publicação pioneira de várias obras de Crowley.
 - **Dion Fortune** - Pesquisadora de polaridade e thelemita, muito provavelmente traída pela ordem que fundou.
 - **Kenneth Grant** - Líder da O.T.O. Tifoniana que também declarou que as linhas da A.’.A.’. são inválidas, pois a tríade interna foi quebrada.
-- **Marcelo Ramos Motta, Euclydes de Lacierda, William Barden, Daniel Stone, Claudia Canuto de Menezes** - Continuaram linhagens da A.’.A.’. e algumas reformulações da O.T.O.
+- **Marcelo Ramos Motta, Euclydes Lacerda, William Barden, Daniel Stone, Claudia Canuto de Menezes** - Continuaram linhagens da A.’.A.’. e algumas reformulações da O.T.O.
 - **Dr. Israel Regardie, Phyllis Seckler, Jane Wolf** - Continuaram uma linhagem da A.’.A.’. que eventualmente resultaria no College and Temple of Thelema.
-- **Carlos Casteneda** - Explorou uma Gnose moderna que se correlaciona bem com a ciência thelêmica.
+- **Carlos Castaneda** - Explorou uma Gnose moderna que se correlaciona bem com a ciência thelêmica.
 - **Ray Eales, David Bersson** - Continuam linhas da A.’.A.’. e reformulações da O.T.O. conforme exigido por Marcelo Motta.
 - **V., V.V., S.U.A.** - Linhagem arcana da A.’.A.’. creditada com o imprimatur nas edições aparentemente dissidentes do Volume IV do The Equinox e que reivindica ser a autoridade espiritual da O.T.O. do Califado.
 - **G.M. Kelly** - Autoproclamado Magister Templi da A.’.A.’. que mantém uma publicação que esbraveja incessantemente contra quase todos que aparecem no cenário thelêmico.
@@ -28,18 +28,28 @@ Nossa linha histórica atual é a seguinte:
 - **Paul Joseph Rovelli** - Autoproclamado Aspirante ao santuário da Gnose da A.’.A.’. e fundador da A.M.H.R. e da G.C.L.
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Ocultismo / Thelema / História do Esoterismo Ocidental
-  - **Manuscrito de Origem:** N/A
+  - **Formato do Material:** Artigo
+  - **Linhagem/Tradição:** Thelema (A.·.A.·. / Astrum Argentum)
   - **Autor:** Frater Zephyros
-  - **PA Source:** AA-1
-  - **Data da tradução:** 14.06.2025
-  - **Idioma original:** Inglês
-  - **Palavras-chave adicionais:** Ordem A.’.A.’., Aleister Crowley, Linhagens Iniciáticas, Marcelo Motta
+  - **Origem:** _a-m-h-r_
+  - **Idioma Original:** Inglês
+  - **Grau de Confiabilidade:** Fragmento Web
+  
+  ### Bastidores da Tradução
+  - **Solicitado por:** Frater M.
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+  - **Shelfmark ID:** SC-WMA-OAI-0001
 
-*Traduzido por Soror B.Z. para Frater M. no FoF.*
+  ### Conexões e Busca
+  - **Tópicos Transversais:** Disputas de legitimidade iniciática; Mitos de fundação; Sincretismo teosófico e mágico
+  - **Tags Principais:** A.'.A.'., O.T.O., Aleister Crowley, Chefes Secretos, Grande Fraternidade Branca, Marcelo Ramos Motta, Thelema, Golden Dawn, Linhagem Iniciática
+  - **Tags Adicionais:** Astrom Argentum, Ordo Templi Orientis, Magia Enochiana, Sistema de Gurdjieff, J.C. Jones (Frater Achad), Jack Parsons, Karl Germer, Israel Regardie, Esoterismo Ocidental, Disputas de Sucessão, Crowleyanismo
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
