@@ -44,4 +44,21 @@ E Maria disse: "Sim: o que Hermes não ensinou, porque a Raiz de Scholia é um c
 > A filha de Plutão, é ela mesma  
 > Quem amarra a confederação do Amor;  
 > Unida a três sementes ela aspira  
-> A ser exaltada no Fogo.  
+> A ser exaltada no Fogo.
+
+---
+<details>
+  <summary>Tags e outras nerdices</summary>
+  
+  ### Dados de Arquivo
+  - **Categoria Secundária:** Alquimia / Textos Herméticos
+  - **Manuscrito de Origem:** British Library MS. Sloane 3641, fólios 1-8
+  - **Período Histórico:** Século XVI / XVII
+  - **Autor:** N/A
+  - **PA Source:** ALQ-2
+  - **Data da tradução:** N/A
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+  - **Idioma original:** Latim e Alemão>Inglês>Português
+  - **Palavras-chave adicionais:** Vaso de Hermes, Kibric, Scholia, Pedra Filosofal, Aros, Transmutação, Tintura
+  
+</details>
