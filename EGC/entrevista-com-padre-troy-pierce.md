@@ -1,4 +1,4 @@
-# Entrevista com o Padre Troy Pierce
+# ✧ Entrevista com o Padre Troy Pierce ✧
 
 > **P-** Como o lecionário gnóstico usado pela Ecclesia Gnostica e pela Igreja Joanita se assemelha ao lecionário usado por cristãos mais “tradicionais” (talvez entendidos aqui como písticos) e o que o marca como essencialmente enraizado na gnose?
 
@@ -57,17 +57,26 @@ A pergunta que vemos frequentemente é: “onde fica a igreja gnóstica na minha
 A segunda pergunta mais feita é algo como “onde/qual é a versão ou abordagem gnóstica em relação a _________?”. Se você mesmo não assumir a tarefa, ou não apoiar indivíduos e organizações que estão trabalhando nessa área: recursos, serviços, materiais e educação para ajudá-lo na libertação podem nunca ser produzidos ou disponibilizados. Recursos para gnósticos só virão de gnósticos, com o apoio de gnósticos.
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:**
-  - **Tipo:** Entrevista
-  - **Fonte:** Green Triangle
-  - **Data da entrevista:** 2006
+  - **Formato do Material:** Entrevista
+  - **Linhagem/Tradição:** Gnosticismo Moderno / Neognostiscismo / EGC
   - **Entrevistador:** Derick Varn
   - **Entrevistado:** Padre Troy Pierce
-  - **Idioma original:** Inglês
-  - **Palavras-chave adicionais:** Ecclesia Gnostica, Episteme, Sacramentos, Philip K. Dick, VALIS, Ecumenismo Gnóstico, Cristianismo Pístico
+  - **Origem:** _Green Triangle_, 2006
+  - **Idioma Original:** Inglês
+  - **Grau de Confiabilidade:** Fonte Primária Confessional
+  
+  ### Bastidores da Tradução
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+
+  ### Conexões e Busca
+  - **Tags Principais:** Gnose, Ecclesia Gnostica, Igreja Joanita, Lecionário Gnóstico, Fundamentalismo, Episteme, Sacramentos, Ecumenismo Gnóstico, Philip K. Dick, VALIS, Nag Hammadi, Metanoia
+  - **Tags Adicionais:** Cristianismo Primitivo, Heresiologia, Stephan Hoeller, Eucaristia Mística, Neognose,
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
