@@ -1,4 +1,4 @@
-# Sobre a Origem da Linhagem
+# ✧ Sobre a Origem da Linhagem ✧
 
 O primeiro problema em reivindicar uma descendência linear dentro da A.·.A.·. surge com o vasto escopo de desinformação que é inevitável com uma ordem espiritual em um mundo mundano. Consequentemente, alguém pode ficar bastante perplexo ao se deparar com o problema de descobrir um contato autêntico que possua a documentação necessária, provando o contato linear com o Master Therion. Todos os documentos significativos estão indisponíveis para o Aspirante nos Graus de Estudante e de Probacionista. Portanto, a pessoa é forçada a confiar em uma percepção mais intuitiva, na esperança de que esta esteja verdadeiramente de acordo com um plano mais neschâmico (*neshamah*) dentro da psique.
 
@@ -25,16 +25,27 @@ Além disso, ele se apega à necessidade de manter estudantes de um grau inferio
 Finalmente, saiba-se que este Discípulo da A.·.A.·. permanece fiel às promessas de Nuit, pois está firme em perseverar até aquele fim que eventualmente deve ser alcançado!
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Ocultismo / Thelema / Linhagens da A.·.A.·. / Crônicas Iniciáticas
-  - **Manuscrito de Origem:** N/A
+  - **Formato do Material:** Artigo
+  - **Linhagem/Tradição:** Thelema (A.·.A.·. / Astrum Argentum)
   - **Autor:** Frater Zephyros
-  - **PA Source:** AA-2
-  - **Data da tradução:** N/A
-  - **Idioma original:** Inglês
-  - **Palavras-chave adicionais:** Linhagens Iniciáticas, O.T.O. do Califado, Ordem A.’.A.’.
+  - **Origem:** _a-m-h-r_
+  - **Idioma Original:** Inglês
+  - **Grau de Confiabilidade:** Fragmento Web
+  
+  ### Bastidores da Tradução
+  - **Solicitado por:** Frater M.
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+
+  ### Conexões e Busca
+  - **Tópicos Transversais:** Cismas em ordens iniciáticas pós-Crowley; Auto-iniciação
+  - **Tags Principais:** A.·.A.·., O.T.O. do Califado, Frater Sphinx, Frater 939, Frater 60, Marcelo Motta, Karl Germer, Aleister Crowley, Zelator, Practicus, Aspirante, Nuit, Neshamah
+  - **Tags Adicionais:** Astrum Argentum, Ordo Templi Orientis, Qabalah, Magick, Sistema de Graus, Iniciação Independente, Chefes Secretos, Misticismo, Ocultismo Ocidental, Hermetismo
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
