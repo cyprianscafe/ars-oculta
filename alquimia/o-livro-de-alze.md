@@ -14,7 +14,7 @@ O texto alemão foi impresso pela primeira vez em Johann Grasshof [Hermannus Con
 
 Não me culpes, gentil Leitor, por falar primeiro sobre a Lua, depois sobre o Sol e os outros planetas, e apenas em terceiro lugar sobre o nosso mais excelente Medicamento, ALZE. Neste caso, aquilo que é por último é melhor e mais honroso do que aquilo que vem primeiro. A substância deve primeiro tornar-se branca, e depois vermelha; ela não pode tornar-se vermelha a menos que tenha primeiro se tornado branca. Por isso, Simão, o Sábio, diz: "Sabe que, a menos que primeiro tornes a Pedra branca, não podes torná-la vermelha". Pois pelo vermelho os demais planetas são unidos, e o Medicamento aparece de surpresa, a menos que esta ordem seja observada na matéria do branco e do vermelho. Assim, a Lua é tomada primeiro e faz, com o branco, o Elixir, isto é, o branco da Lua para o branco do Mercúrio a partir dos corpos chega ao vermelho. De onde nossos Sábios dizem que o vermelho está oculto no branco, o qual eles não ousam extrair até que toda a substância tenha se tornado vermelha.
 
-Quando a substância tiver sido submetida à influência da Lua, ela pode então, em segundo lugar, ser trazida sob a influência do Sol, o que levará o Medicamento à perfeição sem qualquer auxílio dos outros planetas. Pelo que podes entender por que o Medicamento vem por último, assim como do Pai procede o Filho, e o Espírito Santo de ambos. Quem tem ouvidos para ouvir, ouça e compreenda a breve declaração da nossa Arte, que é dada em "A Multidão": "Sabe que a verdadeira Tintura só pode ser preparada a partir do nosso minério". A respeito deste minério, proponho-me, portanto, a dar-te a única explicação necessária, e terei o cuidado de suplementar e confirmar a minha própria opinião com citações de outros Sábios.
+Quando a substância tiver sido submetida à influência da Lua, ela pode então, em segundo lugar, ser trazida sob a influência do Sol, o que levará o Medicamento à perfeição sem qualquer auxílio dos outros planetas. Pelo que podes entender por que o Medicamento vem por último, assim como do Pai procede o Filho, e o Espírito Santo de ambos. Quem tem ouvidos para ouvir, ouça e compreenda a breve declaração da nossa Arte, que é dada em "A Multidão": "Sabe que a verdadeira Tintura só pode ser preparada a partir do nosso minério"¹. A respeito deste minério, proponho-me, portanto, a dar-te a única explicação necessária, e terei o cuidado de suplementar e confirmar a minha própria opinião com citações de outros Sábios.
 
 Falarei não apenas sobre o nosso minério, mas também sobre a nossa união ou conjunção de água e mercúrio. Pois Eximenus diz: "Nada de proveitoso pode surgir dos elementos sem conjunção e cozimento suave". Ao nosso minério, Lucas chama de minério branco, e ele atende por muitos outros nomes por conta das muitas cores que exibe nas várias etapas do processo químico. Mas, embora o ciúme dos Sábios o tenha descrito sob vários nomes, ele é e permanece sendo apenas uma substância. Pitágoras diz: "Muitos nomes lhe são dados; no entanto, não é outra coisa senão a única e verdadeira Matéria, e isso se deve ao desenvolvimento de sua natureza. Os invejosos a descreveram pelos nomes de todos os corpos, como, por exemplo, uma moeda, chumbo, cobre, etc., de acordo com a variedade de suas cores".
 
@@ -26,7 +26,7 @@ Essa água também é chamada de veneno; é o princípio da vida, porque é uma 
 
 Aquilo que é chamado de espírito é o princípio ativo, ou masculino, e só pode ser obtido pela dissolução do corpo. Consequentemente, devemos entender isso da umidade resultante, a saber, aquela que é produzida enquanto dois cônjuges estão conjugados de maneira legítima, até mesmo para o branco. Queres saber quando o corpo foi tornado líquido pelo cozimento? Ouve o que Bonellus responde: "Quando vires uma substância negra flutuando na água, podes saber que o corpo foi dissolvido".
 
-Esses dois, corpo e espírito, têm uma terceira coisa que representa a sua substância comum e é, por sua vez, chamada de seu corpo. É também chamada de nuvem redonda, morte, negrura, escuridão, sombra, chumbo cinzento ou um minério metálico e sutil; ou é descrita, a partir daquilo que dela se obtém, como o ouro que estava oculto no corpo da Magnésia. Daí se dizer: "Extrai a sua sombra do esplendor". Esta também é a substância de que tantos falaram. Três coisas constituem o verdadeiro minério, a saber: corpo, alma e espírito. Por isso é comparado a um ovo, porque num ovo, também, o pintinho se desenvolve a partir de três coisas. Assim também a Alquimia é produzida a partir das três coisas acima mencionadas, como muitos filósofos testificam em "A Multidão".
+Esses dois, corpo e espírito, têm uma terceira coisa que representa a sua substância comum e é, por sua vez, chamada de seu corpo. É também chamada de nuvem redonda, morte, negrura, escuridão, sombra, chumbo cinzento ou um minério metálico e sutil; ou é descrita, a partir daquilo que dela se obtém, como o ouro que estava oculto no corpo da Magnésia. Daí se dizer: "Extrai a sua sombra do esplendor". Esta também é a substância de que tantos falaram. Três coisas constituem o verdadeiro minério, a saber: corpo, alma e espírito. Por isso é comparado a um ovo, porque num ovo, também, o pintinho se desenvolve a partir de três coisas. Assim também a Alquimia é produzida a partir das três coisas acima mencionadas, como muitos filósofos testificam em "A Multidão"².
 
 O princípio masculino, ou a água, é também chamado de "natureza"; pois a água é um agente natural que dissolve os elementos dos corpos e depois os une novamente. A respeito desta água, diz Fictes que a sua natureza tem o maravilhoso poder de transmutar o corpo em espírito. Onde ela se encontra sozinha, vence todas as outras coisas, e é um ácido excelente, áspero e amargo, que transmuta o ouro em puro espírito. Sem este ácido não podemos alcançar nem o vermelho, nem o negro, nem o branco. Quando é combinado com os corpos, então o corpo se transforma em espírito, por um fogo celestial, e uma tintura imutável e indestrutível.
 
@@ -60,7 +60,7 @@ Esta dissolução confere primeiro uma aparência negra ao corpo. A substância 
 
 Daí a nossa substância deve tornar-se primeiro negra, e depois branca, e ser reduzida a uma espécie de pó. Então a alma deve ser restaurada ao pó por um fogo poderoso; e ambos submetidos ao cozimento até que se tornem primeiro negros, depois brancos, depois vermelhos e, finalmente, um bom veneno, sendo o todo realizado pela separação das águas. E agora, estando as águas divididas, coze a matéria e o vapor até que ocorra a coagulação e se faça uma pedra branca. Então as águas são divididas. Segue-se outra mortificação, ou dessecação, e é chamada de nuvens, ou fumaça. A fumaça bem coagulada com as suas fezes torna-se um branco vivo; assa então o minério branco para que ele se produza a si mesmo.
 
-Quando a negrura desaparece, o espírito é restaurado; pois o espírito não morre, mas antes vivifica o corpo e a alma. Quanto mais perfeitamente o nosso minério for purgado e submetido ao cozimento, melhor ele se torna, até ser, por fim, condensado em uma Pedra. Mas deve ser dissolvido novamente e submetido a um fogo poderoso, até parecer sangue queimado. Se esta Pedra for adicionada a qualquer substância, ela a tinge em ouro. Os Sábios falam dela como uma espécie de raiz. Toma, dizem eles, toda a virtude da Tintura e concentra-a na Raiz. Se um corpo que não tem elementos terrenos receber esta Tintura, recebe mais benefício do que corpos menos excelentes. A Pedra vence tudo a que é aplicada, e tinge os corpos estranhos com a sua própria cor. O fogo seco tinge os corpos, o ar os fortalece, a água branca lava a sua negrura, e a sua terra recebe la Tintura.
+Quando a negrura desaparece, o espírito é restaurado; pois o espírito não morre, mas antes vivifica o corpo e a alma. Quanto mais perfeitamente o nosso minério for purgado e submetido ao cozimento, melhor ele se torna, até ser, por fim, condensado em uma Pedra. Mas deve ser dissolvido novamente e submetido a um fogo poderoso, até parecer sangue queimado. Se esta Pedra for adicionada a qualquer substância, ela a tinge em ouro. Os Sábios falam dela como uma espécie de raiz. Toma, dizem eles, toda a virtude da Tintura e concentra-a na Raiz. Se um corpo que não tem elementos terrenos receber esta Tintura, recebe mais benefício do que corpos menos excelentes. A Pedra vence tudo a que é aplicada, e tinge os corpos estranhos com a sua própria cor. O fogo seco tinge os corpos, o ar os fortalece, a água branca lava a sua negrura, e a sua terra recebe a Tintura.
 
 A respeito do cozimento necessário para o desenvolvimento da nossa substância, os Sábios se expressaram de uma grande variedade de maneiras. Observa Hermes, que diz que ele deve ser repetido uma e outra vez, até que a cor vermelha seja finalmente obtida. Nisto reside a estabilidade de todo o trabalho. Depois, assume muitas, muitas cores, não incluindo o vermelho, que aparece no final. Pois o branco deve precedê-lo. Põe-te a trabalhar pelo regime do fogo e tritura. A água acima mencionada volatiliza todos os corpos; mesmo os que são grosseiros ela penetra até os ter assimilado à sua própria natureza. Sabe que, a menos que operes sobre os corpos até que sejam destruídos e a sua alma seja extraída, com tais nunca tingirás corpo algum, pois nada tinge o que primeiro não tenha sido tingido a si mesmo. Se o corpo for tornado fluido e queimado, então ele se inclina em direção ao seu gerador, tornando-se uma Magnésia sutil, e se volta para a terra, que o torna espiritual e o vivifica. Antes que a brancura final da primeira etapa seja alcançada, a substância torna-se primeiro de uma cor negra, depois alaranjada e depois avermelhada (a qual, no entanto, é totalmente diferente da vermelhidão final da última etapa). Estas cores, contudo, não precisam preocupar-te, visto que são evanescentes e meramente transitórias.
 
@@ -72,19 +72,36 @@ Grande e maravilhosa é a potência do ouro que dorme na Magnésia, tanto para a
 
 Quando eu estava preparando a substância, após descobrir o método verdadeiro, fui tão gravemente perturbado pelas pessoas com quem vivia que estive quase a ponto de abandonar tudo em desespero. Por fim, comuniquei a minha descoberta a um amigo, que executou fielmente as minhas instruções e levou o trabalho a um resultado bem-sucedido. Pelo qual Dom Bendito seja Deus louvado, pelos séculos dos séculos. Amém.
 
+<h4>Notas</h4>
+¹ - Refere-se ao _Sermo XXVIII_ (Discurso 28) da _Turba Philosophorum_, onde o debate sobre a "terra" ou "minério" único dos filósofos é discutido como a matéria-prima exclusiva que contém os quatro elementos integrados.
+² - Alusão ao conceito tripartite clássico defendido por filósofos como Lucas e Bonellus ao longo da _Turba_, que argumentam que a Pedra se desenvolve como um ovo (casca, clara e gema correlacionando-se a corpo, alma e espírito).
+
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Alquimia / Hermetismo / Textos Herméticos Clássicos
-  - **Manuscrito de Origem:** O Livro de Alze (também associado historicamente ao *Theatrum Chemicum* ou *Musaeum Hermeticum*)
-  - **Período Histórico:** Século XVII ou XVIII
-  - **Autor:** Anônimo
-  - **PA Source:** ALQ-1
-  - **Data da tradução:** N/A
-  - **Status do Texto:** Traduzido integralmente (Concluído)
-  - **Idioma original:** Alemão>Inglês>Português
-  - **Palavras-chave adicionais:** Pedra Filosofal, Obra em Branco (Albedo), Obra em Vermelho (Rubedo), Transmutação, Elixir, Magnésia, Cozimento Alquímico, União dos Elementos.
+  - **Formato do Material:** Capítulo de Livro / Texto Íntegro (Trata-se do tratado completo dentro de uma antologia maior).
+  - **Linhagem/Tradição:** Alquimia Hermética / Tradição Alquímica Europeia Prata-Auro-Mercúrio
+  - **Período Histórico:** Século XVII (1625)
+  - **Autor:** Anônimo (Compilado ou editado originalmente por Johann Grasshoff sob o pseudônimo de Hermannus Condeesyanus)
+  - **Manuscrito de Origem:** _Dyas chymica tripartita_ (Frankfurt, 1625) para a versão em alemão; e _Musaeum Hermeticum_ (Reformatum et Amplificatum, 1625/1678) para a versão em latim.
+  - **Idioma Original:** Alemão e Latim
+  - **Região:** Frankfurt, Sacro Império Romano-Germânico (Alemanha)
+  - **Grau de Confiabilidade:** Fonte Primária Histórica
+  
+  ### Bastidores da Tradução
+  - **Projeto:** Corpus Alchemicum Lusitanum (FoF)
+  - **Status do Texto:** Traduzido integralmente (Concluído).
+  - **Shelfmark ID:** AO-ALC-001
+  - **Notas de Tradução/Desafios:** Como sempre, o texto me fez batalhar o desafio da _Deckname_ (nomes em código alquímicos). Manti os termos literais (como "Magnésia" e "Basilisco") sem confundi-los com os minerais da tabela periódica moderna, pois no século XVII eles designavam matérias-primas alquímicas totalmente diferentes.
+
+  ### Conexões e Busca
+  - **Categoria Secundária:** Literatura Rosacruz
+  - **Tags Principais:** Livro de Alze, Pedra Filosofal, Lukas Jennis, Johann Grasshof, Dyas chymica tripartita, Musaeum Hermeticum, Albedo (Branco), Rubedo (Vermelho), Nigredo (Negro), Magnésia, Água Permanente, Enxofre e Mercúrio, Turba Philosophorum
+  - **Tags Adicionais:** Alquimia do Século XVII, Hermetismo Alemão, Deckname, Pseudo-Geber, Transmutação Metálica, Elixir da Longa Vida, História da Ciência Espargírica, Espagíria
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
