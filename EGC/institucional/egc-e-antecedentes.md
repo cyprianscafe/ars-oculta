@@ -25,7 +25,7 @@ Notas: 1. Para mais informações sobre história eclesiástica, o leitor deve c
   
   ### Bastidores da Tradução
   - **Status do Texto:** Traduzido integralmente (Concluído)
-  - **Shelfmark ID:** SC-WMA-OAI-0003
+  - **Shelfmark ID:** AO-WMA-OAI-003
 
   ### Conexões e Busca
   - **Categoria Secundária:** História do Ocultismo Ocidental
