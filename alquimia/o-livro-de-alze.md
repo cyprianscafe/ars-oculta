@@ -73,7 +73,8 @@ Grande e maravilhosa é a potência do ouro que dorme na Magnésia, tanto para a
 Quando eu estava preparando a substância, após descobrir o método verdadeiro, fui tão gravemente perturbado pelas pessoas com quem vivia que estive quase a ponto de abandonar tudo em desespero. Por fim, comuniquei a minha descoberta a um amigo, que executou fielmente as minhas instruções e levou o trabalho a um resultado bem-sucedido. Pelo qual Dom Bendito seja Deus louvado, pelos séculos dos séculos. Amém.
 
 <h4>Notas</h4>
-¹ - Refere-se ao _Sermo XXVIII_ (Discurso 28) da _Turba Philosophorum_, onde o debate sobre a "terra" ou "minério" único dos filósofos é discutido como a matéria-prima exclusiva que contém os quatro elementos integrados.
+
+¹ - Refere-se ao _Sermo XXVIII_ (Discurso 28) da _Turba Philosophorum_, onde o debate sobre a "terra" ou "minério" único dos filósofos é discutido como a matéria-prima exclusiva que contém os quatro elementos integrados.  
 ² - Alusão ao conceito tripartite clássico defendido por filósofos como Lucas e Bonellus ao longo da _Turba_, que argumentam que a Pedra se desenvolve como um ovo (casca, clara e gema correlacionando-se a corpo, alma e espírito).
 
 ---
