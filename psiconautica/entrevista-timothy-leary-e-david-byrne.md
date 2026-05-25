@@ -1,8 +1,6 @@
-Duas Cabeças Falando
+<h1 align="center">✧ Duas Cabeças Falando ✧</h1>
 
-David Byrne em conversa com Timothy Leary
-
-[INTRODUÇÃO]
+<p align="center">David Byrne em conversa com Timothy Leary</p>
 
 **TIMOTHY LEARY:** Fiquei fascinado quando você disse que, quando jovem, queria ser artista ou cientista. Mais tarde, você disse que ambos foram manipulados por poderes superiores. O que você quer dizer com isso?
 
