@@ -40,7 +40,7 @@ Finalmente, saiba-se que este Discípulo da A.·.A.·. permanece fiel às promes
   ### Bastidores da Tradução
   - **Solicitado por:** Frater M.
   - **Status do Texto:** Traduzido integralmente (Concluído)
-  - **Shelfmark ID:** SC-WMA-OAI-0002
+  - **Shelfmark ID:** AO-WMA-OAI-002
 
   ### Conexões e Busca
   - **Tópicos Transversais:** Cismas em ordens iniciáticas pós-Crowley; Auto-iniciação
