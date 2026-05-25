@@ -43,7 +43,7 @@ Nossa linha histórica atual é a seguinte:
   ### Bastidores da Tradução
   - **Solicitado por:** Frater M.
   - **Status do Texto:** Traduzido integralmente (Concluído)
-  - **Shelfmark ID:** SC-WMA-OAI-0001
+  - **Shelfmark ID:** AO-WMA-OAI-001
 
   ### Conexões e Busca
   - **Tópicos Transversais:** Disputas de legitimidade iniciática; Mitos de fundação; Sincretismo teosófico e mágico
