@@ -44,7 +44,7 @@ Maria disse: "Vitrifica sobre ele Kibric ou Zibeic, e aí estão os dois fumos q
 
 Então Aros caiu sobre o seu rosto.  
 
-E Maria disse-lhe: "Levanta a tua cabeça, Aros: porque vou encurtar para ti a coisa, como aquele corpo claro que é lançado sobre as Colinas e não é obtido por putrefação ou movimento. Toma e esmaga-o com Goma Elsaron, e com os dois fumos, porque o Corpo que os compreende ou retém é a Goma Elsaron, e moendo tudo. Portanto, aproxima-te, porque tudo se funde. Se projetares a sua esposa sobre ele, será como uma Água destilada, e quando o Ar bater nele, será congelado e será um só corpo; faz a projeção dele e contemplarás Maravilhas: Ó Aros, esse é o segredo oculto de Scholia; e sabe que os ditos dois fumos são a Raiz desta Arte, e eles são o Kibric branco e a cal úmida, mas o Corpo fixo é do Coração de Saturno, compreendendo a Tintura e os Campos da Sabedoria ou de Scholia. E os Filósofos deram-lhe muitos e todos os nomes, e recebido ou colhido das Colinas, é um Corpo branco e claro, e estes são o remédio desta Arte; uma parte é de proveniência e outra parte é encontrada sobre as Colinas; e sabe, Aros, que os sábios não lhe chamaram os Campos da Sabedoria, ou de Scholia, a não ser porque Scholia não será completada senão por ele; e na Scholia não há nada senão coisas maravilhosas. Pois ali também entram as quatro Pedras, e o seu verdadeiro regime é como eu disse. E isso é primeiro Scoyare, Ade e Zethet; por meio disso faz a tua Alegoria, como Hermes fez nos seus Livros Scoyas; e os Filósofos tornaram sempre o regime mais longo, e semelharam a obra a tudo aquilo que não deveria fazer a obra, e fazem com que o Magistério seja em um ano, e isto apenas para o ocultar do povo ignorante, até que seja confirmado nos seus Corações e nos seus sentidos (até que creiam na Arte): porque a Arte não será completada exceto apenas no Ouro; porque é o grande segredo de Deus: e aqueles que ouvem os nossos segredos não os verificam (nem creem que sejam verdadeiros), por razão da sua ignorância. Entendeste, Aros?"  
+E Maria disse-lhe: "Levanta a tua cabeça, Aros: porque vou encurtar para ti a coisa, como aquele corpo claro que é lançado sobre as Colinas e não é obtido por putrefação ou movimento. Toma e esmaga-o com Goma Elsaron, e com os dois fumos, porque o Corpo que os compreende ou retém é a Goma Elsaron, e moendo tudo. Portanto, aproxima-te, porque tudo se funde. Se projetares a sua esposa sobre ele, será como uma Água destilada, e quando o Ar bater nele, será congelado e será um só corpo; faz a projeção dele e contemplarás Maravilhas: Ó Aros, esse é o segredo oculto de Scholia; e sabe que os ditos dois fumos são a Raiz desta Arte, e eles são o Kibric branco e a cal úmida, mas o Corpo fixo é do Coração de Saturno, compreendendo a Tintura e os Campos da Sabedoria ou de Scholia. E os Filósofos deram-lhe muitos e todos os nomes, e recebido ou colhido das Colinas, é um Corpo branco e claro, e estes são o remédio desta Arte; uma parte é de proveniência e outra parte é encontrada sobre as Colinas; e sabe, Aros, que os sábios não lhe chamaram os Campos da Sabedoria, ou de Scholia, a não ser porque Scholia não será completada senão por ele; e na Scholia não há nada senão coisas maravilhosas. Pois ali também entram as quatro Pedras, e o seu verdadeiro regime é como eu disse. E isso é primeiro Scoyare¹, Ade² e Zethet³; por meio disso faz a tua Alegoria, como Hermes fez nos seus Livros Scoyas⁴; e os Filósofos tornaram sempre o regime mais longo, e semelharam a obra a tudo aquilo que não deveria fazer a obra, e fazem com que o Magistério seja em um ano, e isto apenas para o ocultar do povo ignorante, até que seja confirmado nos seus Corações e nos seus sentidos (até que creiam na Arte): porque a Arte não será completada exceto apenas no Ouro; porque é o grande segredo de Deus: e aqueles que ouvem os nossos segredos não os verificam (nem creem que sejam verdadeiros), por razão da sua ignorância. Entendeste, Aros?"  
 
 Aros disse: "Sim. Mas fala-me sobre aquele vaso, sem o qual a Obra não será realizada."  
 
@@ -70,6 +70,14 @@ E Maria disse: "Sim: o que Hermes não ensinou, porque a Raiz de Scholia é um c
 > A ser exaltada no Fogo.
 
 ---
+<h4>Notas da tradutora</h4>
+
+¹- Termo altamente obscuro e corrompido na tradição de manuscritos latinos (frequentemente grafado _Scoyari_ ou _Scoiari_). Especialistas em filologia alquímica sugerem que provém de transliterações falhas do árabe (possivelmente _As-Suriya_, "o Sírio", associado à terra ou matéria-prima síria) ou de uma raiz grega relacionada a vasos de destilação. Representa a primeira fase de preparação ou a matéria-prima bruta no início da Obra.   
+² - Provável corrupção do termo árabe _Al-Yad_ ("a mão" ou "o agente"), ou do hebraico _Ed_ (אד), que significa "vapor" ou "névoa". No contexto desta tríade mineral/processual, denota o agente mediador (frequentemente o fogo ou o espírito volátil) que une a matéria-prima (_Scoyare_) ao fixador (_Zethet_).   
+³ - Filologicamente derivado do árabe _al-zait_ (الزيت), que se traduz literalmente como "o óleo". Na literatura hermética, o "óleo" representa o Enxofre fixo e incombustível dos Filósofos, o princípio de cor vermelha que dá estabilidade e permanência à Tintura, impedindo que os elementos voláteis evaporem ao fogo. Fato divertido: A nossa palavra portuguesa "azeite" também deriva do mesmo termo árabe!   
+⁴ - Refere-se a títulos de tratados herméticos perdidos ou pseudoepígrafos. É uma leitura corrompida do título de uma obra em árabe de Hermes (provavelmente relacionada ao _Kitab al-Asrar_ ou "Livro dos Segredos").
+
+---
 
 <details>
   <summary>Tags e outras nerdices</summary>
@@ -86,10 +94,9 @@ E Maria disse: "Sim: o que Hermes não ensinou, porque a Raiz de Scholia é um c
   
   ### Bastidores da Tradução
   - **Data da Tradução:** 05.2025
-  - **Solicitado por:** N/A
   - **Projeto:** Corpus Alchemicum Lusitanum (FoF)
   - **Status do Texto:** Traduzido integralmente (Concluído)
-  - **Shelfmark ID:** TBD
+  - **Shelfmark ID:** AO-ALC-002
   - **Notas de Tradução/Desafios:** O texto apresenta uma densa camada de termos codificados (*decknamen*) e corrupções transliteradas. Palavras como "*Hendragem*" (provavelmente uma corrupção de *hydrargyrum*, mercúrio), "*Kibric*" (do árabe *al-kibrit*, enxofre), "*Goma Elsaron*" e os nomes "Scoyare, Ade e Zethet" representam jargões técnicos da transição árabe-latina. O maior desafio é traduzir a literalidade sem perder a natureza enigmática intencional do Magistério. Isso significa que algumas liberdades interpretativas tiveram que ser tomadas, e posso explicá-las com mais detalhes se alguém quiser conversar sobre elas.
 
   ### Conexões e Busca
