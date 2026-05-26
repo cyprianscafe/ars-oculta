@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>Suba o seu nível vibracional, porque o deles estava no chão.</i>
+  <i><sub>Suba o seu nível vibracional, porque o deles estava no chão.</sub></i>
 </p>
 
 ---
