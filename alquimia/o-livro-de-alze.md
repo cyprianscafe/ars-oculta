@@ -72,10 +72,12 @@ Grande e maravilhosa é a potência do ouro que dorme na Magnésia, tanto para a
 
 Quando eu estava preparando a substância, após descobrir o método verdadeiro, fui tão gravemente perturbado pelas pessoas com quem vivia que estive quase a ponto de abandonar tudo em desespero. Por fim, comuniquei a minha descoberta a um amigo, que executou fielmente as minhas instruções e levou o trabalho a um resultado bem-sucedido. Pelo qual Dom Bendito seja Deus louvado, pelos séculos dos séculos. Amém.
 
-<h4>Notas</h4>
+---
 
-¹ - Refere-se ao _Sermo XXVIII_ (Discurso 28) da _Turba Philosophorum_, onde o debate sobre a "terra" ou "minério" único dos filósofos é discutido como a matéria-prima exclusiva que contém os quatro elementos integrados.  
-² - Alusão ao conceito tripartite clássico defendido por filósofos como Lucas e Bonellus ao longo da _Turba_, que argumentam que a Pedra se desenvolve como um ovo (casca, clara e gema correlacionando-se a corpo, alma e espírito).
+<h4>Notas da tradutora</h4>
+
+<sub>¹ - Refere-se ao _Sermo XXVIII_ (Discurso 28) da _Turba Philosophorum_, onde o debate sobre a "terra" ou "minério" único dos filósofos é discutido como a matéria-prima exclusiva que contém os quatro elementos integrados.  
+² - Alusão ao conceito tripartite clássico defendido por filósofos como Lucas e Bonellus ao longo da _Turba_, que argumentam que a Pedra se desenvolve como um ovo (casca, clara e gema correlacionando-se a corpo, alma e espírito).</sub>
 
 ---
 
@@ -103,6 +105,6 @@ Quando eu estava preparando a substância, após descobrir o método verdadeiro,
   - **Tags Principais:** Livro de Alze, Pedra Filosofal, Lukas Jennis, Johann Grasshof, Dyas chymica tripartita, Musaeum Hermeticum, Albedo (Branco), Rubedo (Vermelho), Nigredo (Negro), Magnésia, Água Permanente, Enxofre e Mercúrio, Turba Philosophorum
   - **Tags Adicionais:** Alquimia do Século XVII, Hermetismo Alemão, Deckname, Pseudo-Geber, Transmutação Metálica, Elixir da Longa Vida, História da Ciência Espargírica, Espagíria
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
