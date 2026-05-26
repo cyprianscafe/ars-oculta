@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <i>Arquivo documental da Tradição Esotérica Ocidental e Magia Ritual Clássica.</i>
-</p>
-
-<p align="center">
-  O acervo oficial de fontes primárias e secundárias do <b>Cyprian's Cove</b>.
+  <sub><i>Arquivo documental da Tradição Esotérica Ocidental e Magia Ritual Clássica.</i></sub>
 </p>
 
 ---
@@ -48,6 +44,6 @@ Como este espaço funciona como um repositório puro de arquivos, o canal aberto
 ---
 
 <p align="center">
-  <small><i>"Quod est superius est sicut quod est inferius."</i> <br> 
-  Preservando as chaves da Tradição Ocidental.</small>
+  <sub><i>"Quod est superius est sicut quod est inferius."</i> <br> 
+  Preservando as chaves da Tradição Ocidental.</sub>
 </p>
