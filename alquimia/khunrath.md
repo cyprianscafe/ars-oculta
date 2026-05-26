@@ -1,4 +1,4 @@
-# ✧ Khunrath ✧
+<h1 align="center"> ✧ Khunrath ✧</h1>
 
 <h3 align="center"> Um Symbolo Quýmico Naturall</h3>
 
@@ -21,7 +21,7 @@ Henry Kunwrath de Lipsicke, Doutor *utriusque Medicinae* e bem-intencionado da v
 
 ### O Symbolo Quýmico Naturall
 
-ou breve Confissão do Doutor Kunwrath.
+<sub>ou breve Confissão do Doutor Kunwrath.</sub>
 
 Aquele que busca a filosofia Quýmica natural (isto é), o livro da Natureza, do grande mundo escrito pela própria sabedoria divina de Deus, sendo um verdadeiro amante e amistoso desejoso de obter a Católica, natural, artificial (isto é), a Pedra Universal, verdadeiramente chamada grande, sendo a Pedra universal dos homens sábios. Antes de tudo, ele deve obter o verdadeiro Mercúrio universal dos sábios. Aquele que não conhece isso total e perfeitamente, nem sabe governá-lo pela via natural e Quýmica, nem usá-lo de acordo, sem dúvida tal homem perdeu seu trabalho e despesa, ao buscar o benefício da Arte e da natureza pela Alchymie.
 
@@ -96,19 +96,19 @@ E aquele que não é sábio, que aprenda; se não, que guarde silêncio.
 da incorporação do Espírito do Senhor no Sal  
 [Gên. 1:2 movia-se sobre a face das águas.]
 
-> Espírito Divino, bendito seja o teu estado,          [*Ruach elohim* Gên. 1:2.]  
+> Espírito Divino, bendito seja o teu estado,          &nbsp;&nbsp;&nbsp;&nbsp;[*Ruach elohim* Gên. 1:2.]  
 > Que no Sal estás incorporado  
-> E no verdadeiro ventre virgem do Mundo          [na Terra sem forma e vazia  
-> Uma pura Quintessência te tornaste.                  Sab. 1:7, Gên. 1:2.]  
+> E no verdadeiro ventre virgem do Mundo          &nbsp;&nbsp;&nbsp;&nbsp;[na Terra sem forma e vazia  
+> Uma pura Quintessência te tornaste.                  &nbsp;&nbsp;&nbsp;&nbsp;Sab. 1:7, Gên. 1:2.]  
 >     *Senhor, tende piedade de nós.*  
 > O maravilhoso poder eterno de Deus,  
 > O homem neste mundo pode descobrir,  
 > Que com a carne e o sangue do grande mundo  
 > Se vestiu para o nosso Bem Eterno.  
 >     *Senhor, tende piedade de nós.*  
-> Tu que antes cercavas o mundo inteiro                      [No princípio do  
-> Agora na semente do velho Caos és encontrado      mundo, não antes, uma  
-> Assim te tornaste um corpo pequeno                      semente de todas as coisas]  
+> Tu que antes cercavas o mundo inteiro                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[No princípio do  
+> Agora na semente do velho Caos és encontrado     mundo, não antes, uma  
+> Assim te tornaste um corpo pequeno                      &nbsp;semente de todas as coisas]  
 > Sustentando todas as coisas naturais.  
 >     *Senhor, tende piedade de nós.*  
 > Esta é a grande Luz da Natureza  
@@ -121,8 +121,8 @@ da incorporação do Espírito do Senhor no Sal
 > Que nos guiou para fora do lugar dos Erros  
 > E nos fez herdeiros da graça da Natureza.  
 >     *Senhor, tende piedade de nós.*  
-> Na Terra ele esteve em humilde Consórcio            [Em uma forma pobre, humilde,  
-> Para nos Confortar em grande misericórdia           baixa e desprezada]  
+> Na Terra ele esteve em humilde Consórcio            &nbsp;&nbsp;[Em uma forma pobre, humilde,  
+> Para nos Confortar em grande misericórdia           &nbsp;&nbsp;baixa e desprezada]  
 > Er nos fazer ricos em verdadeira sabedoria  
 > Para que como Crianças recém-nascidas nos tornemos.  
 >     *Senhor, tende piedade de nós.*  
@@ -134,8 +134,8 @@ da incorporação do Espírito do Senhor no Sal
 
 Afronta aos Contraditores.
 
-Doutor Kunwrath *faciebat*  
-23 Decembris. Anno 1597. octava vespertina.
+<sub>Doutor Kunwrath *faciebat*  
+23 Decembris. Anno 1597. octava vespertina.</sub>
 
 ---
 
@@ -165,6 +165,6 @@ Doutor Kunwrath *faciebat*
   - **Tags Principais:** Mercúrio dos Sábios, Caos Natural, Pedra Filosofal, Ruach Elohim, Azoth, Magnésia, Shamaim, Sal de Sabedoria, Anfiteatro da Sabedoria Eterna, Quintessência
   - **Tags Adicionais:** Paracelsismo, Iatroquímica, Hermetismo, Biblioteca Bodleiana, Rosa-Cruz (antecedentes), Século XVI
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
