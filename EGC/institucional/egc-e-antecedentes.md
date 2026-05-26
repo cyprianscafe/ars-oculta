@@ -8,7 +8,7 @@ Subsequentemente, ocorreram vários cismas dentro da organização de Doinel, se
 
 As principais contribuições do próprio Crowley para essa tradição podem ser vistas tanto em seu texto eucarístico central, o Liber XV, quanto em seu redirecionamento da corrente religiosa da igreja: do Gnosticismo dualista e osiriano da era clássica para a Gnose Horestria Thelêmica. Doinel e seus sucessores enfatizaram o estado caído da matéria em seus rituais, recorrendo à salvação no outro plano espiritual do pleroma. Crowley, em vez disso, declarou a energia sacramental contínua no movimento de toda manifestação.¹ É nesta forma “moderna” de uma antiga tradição que a Thelema Lodge celebra sua missa semanal, todo domingo à noite, às 19h30. Por favor, chegue um pouco mais cedo e ligue com antecedência para obter instruções de direção, se necessário. – contribuído por Frater Baalam
 
-Notas: 1. Para mais informações sobre história eclesiástica, o leitor deve consultar a obra de David & Lynn Scriven, Mystery of Mystery: A Primer of Thelemic Ecclesiastical Gnosticism, Red Flame volume 2 em Berkeley, CA: 1995."
+<sub>Notas: 1. Para mais informações sobre história eclesiástica, o leitor deve consultar a obra de David & Lynn Scriven, _Mystery of Mystery: A Primer of Thelemic Ecclesiastical Gnosticism, Red Flame volume 2_ em Berkeley, CA: 1995."</sub>
 
 ---
 
@@ -32,6 +32,6 @@ Notas: 1. Para mais informações sobre história eclesiástica, o leitor deve c
   - **Tags Principais:** Ecclesia Gnostica Catholica, Jules Doinel, O.T.O., Aleister Crowley, Jean Bricaud, Gérard Encausse (Papus), Theodor Reuss, Liber XV, Missa Gnáustica, Cátaros, Golden Dawn, Kenneth Mackenzie
   - **Tags Adicionais:** Martinismo, Igreja Gnáustica da França, Linhagens Episcopais Vagantes, Esoterismo Francês, Éon de Hórus, Pleroma, Antropologia da Religião
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
