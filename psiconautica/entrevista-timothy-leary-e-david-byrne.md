@@ -1,6 +1,6 @@
 <h1 align="center">✧ Duas Cabeças Falando ✧</h1>
 
-<p align="center">David Byrne em conversa com Timothy Leary</p>
+<p align="center"><sub>David Byrne em conversa com Timothy Leary</sub></p>
 
 **TIMOTHY LEARY:** Fiquei fascinado quando você disse que, quando jovem, queria ser artista ou cientista. Mais tarde, você disse que ambos foram manipulados por poderes superiores. O que você quer dizer com isso?
 
@@ -342,6 +342,6 @@
   - **Tags Principais:** Timothy Leary, David Byrne, Mondo 2000, Realidade Virtual, Mecânica Quântica, Orixás, Candomblé, Vodu, Transe, Possessão, Alteração de Percepção, Globalização, Complexo Militar-Industrial, Ecstasy, Joseph Kosuth, Colonização Reversa
   - **Tags Adicionais:** Psychonaut, Cyberpunk, Tecnomisticismo, Esoterismo Ocidental, Antropologia da Religião, Ritmos Coletivos, Xamanismo Tecnológico (Techno-Shamanism), Caos Quântico
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
