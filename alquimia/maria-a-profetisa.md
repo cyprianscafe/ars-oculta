@@ -5,7 +5,7 @@ Transcrito do manuscrito da British Library MS. Sloane 3641, fólios 1-8. O text
 ---
 
 <h3 align="center">A prática de Maria, a Profetisa</h3>
-<p align="center"><i>Practica Mariae Prophetissae</i></p>
+<p align="center"><sub><i>Practica Mariae Prophetissae</i></sub></p>
 
 Aros, o Filósofo, teve um encontro com Maria, a Profetisa, a Irmã de Moisés, e, aproximando-se dela, prestou-lhe respeito e disse-lhe: "Ó Profetisa, verdadeiramente ouvi muitos dizerem de vós que branqueais a Pedra em um único dia."  
 
@@ -72,10 +72,10 @@ E Maria disse: "Sim: o que Hermes não ensinou, porque a Raiz de Scholia é um c
 ---
 <h4>Notas da tradutora</h4>
 
-¹- Termo altamente obscuro e corrompido na tradição de manuscritos latinos (frequentemente grafado _Scoyari_ ou _Scoiari_). Especialistas em filologia alquímica sugerem que provém de transliterações falhas do árabe (possivelmente _As-Suriya_, "o Sírio", associado à terra ou matéria-prima síria) ou de uma raiz grega relacionada a vasos de destilação. Representa a primeira fase de preparação ou a matéria-prima bruta no início da Obra.   
+<sub>¹- Termo altamente obscuro e corrompido na tradição de manuscritos latinos (frequentemente grafado _Scoyari_ ou _Scoiari_). Especialistas em filologia alquímica sugerem que provém de transliterações falhas do árabe (possivelmente _As-Suriya_, "o Sírio", associado à terra ou matéria-prima síria) ou de uma raiz grega relacionada a vasos de destilação. Representa a primeira fase de preparação ou a matéria-prima bruta no início da Obra.   
 ² - Provável corrupção do termo árabe _Al-Yad_ ("a mão" ou "o agente"), ou do hebraico _Ed_ (אד), que significa "vapor" ou "névoa". No contexto desta tríade mineral/processual, denota o agente mediador (frequentemente o fogo ou o espírito volátil) que une a matéria-prima (_Scoyare_) ao fixador (_Zethet_).   
 ³ - Filologicamente derivado do árabe _al-zait_ (الزيت), que se traduz literalmente como "o óleo". Na literatura hermética, o "óleo" representa o Enxofre fixo e incombustível dos Filósofos, o princípio de cor vermelha que dá estabilidade e permanência à Tintura, impedindo que os elementos voláteis evaporem ao fogo. Fato divertido: A nossa palavra portuguesa "azeite" também deriva do mesmo termo árabe!   
-⁴ - Refere-se a títulos de tratados herméticos perdidos ou pseudoepígrafos. É uma leitura corrompida do título de uma obra em árabe de Hermes (provavelmente relacionada ao _Kitab al-Asrar_ ou "Livro dos Segredos").
+⁴ - Refere-se a títulos de tratados herméticos perdidos ou pseudoepígrafos. É uma leitura corrompida do título de uma obra em árabe de Hermes (provavelmente relacionada ao _Kitab al-Asrar_ ou "Livro dos Segredos").</sub>
 
 ---
 
@@ -105,6 +105,6 @@ E Maria disse: "Sim: o que Hermes não ensinou, porque a Raiz de Scholia é um c
   - **Tags Principais:** Maria a Profetisa, Aros, Hermes, Vaso de Hermes, Kibric, Hendragem, Saturno, Alúmen de Espanha, Goma Elsaron, Coagulação do Mercúrio, Branqueamento da Pedra, Scholia
   - **Tags Adicionais:** Alquimia Helenística, Pseudoepigrafia, Maria a Judia, Kerotakis, Decknamen, Prerrogativa Hermética, Transmutação, Sloane Manuscripts
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
