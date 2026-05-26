@@ -1,7 +1,7 @@
 <div align="center"> 
   
-**Cadeia Lógica do Ego Oculto:**   
-_O mago compra um pedaço de papel velho_ ──> _O mago se torna um bispo gnóstico_ ──> _Ergo, o mago agora é dono da Wicca. Woohoo!_
+<sub>**Cadeia Lógica do Ego Oculto:**   
+_O mago compra um pedaço de papel velho_ ──> _O mago se torna um bispo gnóstico_ ──> _Ergo, o mago agora é dono da Wicca. Woohoo!_</sub>
 
 </div>
 
@@ -142,6 +142,6 @@ Se a Carta Patente que Crowley emitiu para Gardner é, de fato, a autoridade sob
   ### Conexões e Busca
   - **Tópicos Transversais:** Disputas de Linhagem (Lineage Wars)
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
