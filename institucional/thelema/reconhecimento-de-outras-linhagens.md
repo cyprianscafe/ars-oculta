@@ -50,6 +50,6 @@ Nossa linha histórica atual é a seguinte:
   - **Tags Principais:** A.'.A.'., O.T.O., Aleister Crowley, Chefes Secretos, Grande Fraternidade Branca, Marcelo Ramos Motta, Thelema, Golden Dawn, Linhagem Iniciática
   - **Tags Adicionais:** Astrom Argentum, Ordo Templi Orientis, Magia Enochiana, Sistema de Gurdjieff, J.C. Jones (Frater Achad), Jack Parsons, Karl Germer, Israel Regardie, Esoterismo Ocidental, Disputas de Sucessão, Crowleyanismo
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
