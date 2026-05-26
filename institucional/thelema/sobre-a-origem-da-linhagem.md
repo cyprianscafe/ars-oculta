@@ -47,6 +47,6 @@ Finalmente, saiba-se que este Discípulo da A.·.A.·. permanece fiel às promes
   - **Tags Principais:** A.·.A.·., O.T.O. do Califado, Frater Sphinx, Frater 939, Frater 60, Marcelo Motta, Karl Germer, Aleister Crowley, Zelator, Practicus, Aspirante, Nuit, Neshamah
   - **Tags Adicionais:** Astrum Argentum, Ordo Templi Orientis, Qabalah, Magick, Sistema de Graus, Iniciação Independente, Chefes Secretos, Misticismo, Ocultismo Ocidental, Hermetismo
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
