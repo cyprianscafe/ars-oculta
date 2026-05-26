@@ -77,6 +77,6 @@ A segunda pergunta mais feita é algo como “onde/qual é a versão ou abordage
   - **Tags Principais:** Gnose, Ecclesia Gnostica, Igreja Joanita, Lecionário Gnóstico, Fundamentalismo, Episteme, Sacramentos, Ecumenismo Gnóstico, Philip K. Dick, VALIS, Nag Hammadi, Metanoia
   - **Tags Adicionais:** Cristianismo Primitivo, Heresiologia, Stephan Hoeller, Eucaristia Mística, Neognose,
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
