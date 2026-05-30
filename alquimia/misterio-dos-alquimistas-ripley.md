@@ -4,7 +4,7 @@
 
 O Mistério  
 dos Alquimistas,  
-Composto por Sir Geo: Ripley  
+Composto por Sir George Ripley  
 Cônego de Bridlington.  
 
 </div>
@@ -155,7 +155,7 @@ Pois através de vosso ensinamento muito bem o conheço,
 Agora, Pai, peço-vos por caridade,  
 Enquanto está em vossa mente,  
 Dar-me a conhecer o Enxofre vermelho que me ensinareis,  
-And então confio em encontrar vossa Doutrina.  
+E então confio em encontrar vossa Doutrina.  
    Branco e Vermelho, Filho, são ambos um em espécie,      Pai.  
 Agora tens todo o teu desejo,  
 Guarda bem este segredo e cerra-o em tua mente,  
