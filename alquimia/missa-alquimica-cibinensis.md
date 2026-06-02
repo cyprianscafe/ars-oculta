@@ -4,15 +4,15 @@
 
 ---
 
-_Introito_. Nosso Senhor, fonte de bondade, inspirador da arte sagrada, de quem todas as coisas boas vêm aos vossos fiéis, tende piedade.
+_Introito_. Senhor, fonte de bondade, doador da arte sagrada, de quem todos os bens advêm aos Vossos fiéis, tende piedade de nós.
 
-_Cristo_. Cristo, Santo, pedra bendita da arte da ciência, que para a salvação do mundo inspirastes a luz da ciência, para a erradicação dos incrédulos, tende piedade.
+_Christe_. Cristo, Santo, pedra bendita da Arte e da Ciência, que para a salvação do mundo inspirastes a luz da ciência, para a erradicação dos incrédulos, tende piedade de nós.
 
-_Kyrie_. Nosso Senhor, fogo divino, ajudai nossos corações, para que possamos, em vosso louvor, expandir os sacramentos da arte, tende piedade.
+_Kyrie_. Senhor, fogo divino, inflamai nossos corações para que possamos, em Vosso louvor, manifestar os sacramentos da Arte, tende piedade de nós.
 
-_Gradual_. Ele desce como chuva sobre o velo e como aguaceiros que caem suavemente sobre a terra. Aleluia. Ó bendito criador da terra, mais branca que a neve, mais doce que a doçura, fragrante no fundo do vaso como bálsamo. Ó remédio salutar para os homens, que cura toda fraqueza do corpo: Ó fonte sublime de onde jorra verdadeiramente a verdadeira água da vida para o jardim dos vossos fiéis.
+_Gradual_. Ele desce como chuva sobre o velo, e como as gotículas que destilam sobre a terra. Aleluia. Ó bendito fruto da terra, tornado mais branco que a neve, mais doce que a doçura, fragrante no fundo do vaso como o bálsamo. Ó remédio universal para os homens, que cura toda enfermidade do corpo; ó fonte sublime de onde brota, em verdade, a água da vida para o jardim dos Vossos sábios.
 
-_Ave Maria_. Salve, bela lâmpada do céu, luz brilhante do mundo! Aqui estás unida à lua, aqui se forma o laço de Marte e a conjunção de Mercúrio. Destes três nasce, pela maestria da arte, no leito do rio, o gigante forte que mil vezes mil procuram, quando estes três se dissolverem, não em água da chuva... mas em água mercurial, nesta nossa goma abençoada que se dissolve por si mesma e é chamada de Sêmen dos Filósofos. Agora ele se apressa em se unir e desposar a noiva virgem, e em engravidá-la no banho sobre fogo moderado. Mas a Virgem não engravidará de imediato a menos que seja beijada em repetidos abraços. Então ela concebe em seu corpo, e assim nasce o filho de bom presságio, de acordo com a ordem da natureza. Então aparecerá no fundo do vaso o poderoso etíope, queimado, calcinado, descolorido, totalmente morto e sem vida. Ele pede para ser sepultado, aspergido com sua própria umidade e lentamente calcinado até ressurgir em forma resplandecente do fogo intenso... Eis uma restauração e renovação maravilhosas do etíope! Por causa do banho do renascimento, ele recebe um novo nome, que os filósofos chamam de enxofre natural e seu filho, sendo esta a pedra dos filósofos. E eis que é uma só coisa, uma raiz, uma essência sem nada de supérfluo, da qual muito do que era supérfluo é removido pela maestria da arte... É o tesouro dos tesouros, a suprema poção filosófica, o segredo divino dos antigos. Bem-aventurado aquele que encontra tal coisa. Aquele que viu esta coisa escreve e fala abertamente, e eu sei que seu testemunho é verdadeiro. Louvado seja Deus para sempre.
+_Ave Maria_. Salve, esplêndida lucerna do céu, claridade do mundo! Aqui o Sol se une à Lua, aqui se firma o liame de Marte e a conjunção de Mercúrio. Destes três nasce, por meio do magistério da Arte, no leito do rio, o gigante forte a quem milhares de milhares buscam; quando estes três se dissolvem, não em água da chuva, mas em água mercurial—nesta nossa goma bendita que se liquefaz por si mesma, denominada Sêmen dos Filósofos. Agora ele se apressa em unir-se e desposar a noiva virgem, fecundando-a no banho sob fogo lento. Contudo, a Virgem não conceberá de imediato, a menos que seja osculada em repetidos amplexos; então, retendo a semente em seu corpo, faz nascer o Filho de bom augúrio, segundo a ordem da Natureza. Surgirá então, no fundo do vaso, o poderoso Etíope: calcinado, enegrecido, descorado, inteiramente exânime e destituído de vida. Ele clama por sepultura, para ser aspergido com sua própria umidade radical e purificado pelo fogo lento, até ressurgir, em forma resplandecente, das chamas intensas. Eis a admirável restauração e renovação do Etíope: mediante o banho do renascimento, ele assume um novo nome, o qual os filósofos chamam de Enxofre Natural, e também seu Filho, sendo esta a Pedra dos Filósofos. Eis que se trata de uma só coisa: uma única raiz, uma única essência despida de superfluidade, da qual todo elemento supérfluo foi expurgado pelo magistério da Arte. Este é o tesouro dos tesouros, a suprema medicina filosófica, o arcano divino dos antigos. Bem-aventurado aquele que tal segredo encontra. Aquele que viu estas coisas deu testemunho, e sabemos que o seu testemunho é verdadeiro. Louvado seja Deus eternamente. Amém.
 
 ---
 
@@ -27,11 +27,11 @@ _Ave Maria_. Salve, bela lâmpada do céu, luz brilhante do mundo! Aqui estás u
   - **Manuscrito de Origem:** _Theatrum Chemicum_ (Volume III, 1602)
   - **Idioma Original:** Latim
   - **Região:** Europa Central (Transilvânia / Reino da Hungria, atual Romênia)
-  - **Grau de Confiabilidade:** Fonte Primária Acadêmica
+  - **Grau de Confiabilidade:** Fonte Primária Histórica
   
   ### Bastidores da Tradução
   - **Data da Tradução:** 03.2025
-  - **Status do Texto:** Traduzido integralmente (Concluído)
+  - **Status do Texto:** Traduzido integralmente (Revisado)
 
   ### Conexões e Busca
   - **Tags Principais:** alquimia, theatrum chemicum, melchior cibinensis, missa alquimica, etiope, agua mercurial, enxofre, pedra filosofal,
