@@ -80,7 +80,7 @@ Lembrai-vos que em alquimia uns livros "abrem" os outros, isto é, o que no text
   - **Formato do Material:** Texto Íntegro
   - **Linhagem/Tradição:** Alquimia Operativa / Espagíria Europeia
   - **Período Histórico:** Século XXI (2005)
-  - **Autor:** Rubellus Petrinus (Henrique Pinto, 1941–2020)
+  - **Autor:** Rubellus Petrinus (Telemaco Pissarro, 1941–2020)
   - **Idioma Original:** Português
   - **Grau de Confiabilidade:** Fragmento Web
   
