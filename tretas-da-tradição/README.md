@@ -2,18 +2,15 @@
   <samp>✧ <b>TRETAS DA TRADIÇÃO</b> ✧</samp>
 </p>
 
-<p align="center">
-  <i><sub>Suba o seu nível vibracional, porque o deles estava no chão.</sub></i>
-</p>
-
 ---
 
 > [!CAUTION]
 > **AVISO PAROQUIAL IMPORTANTE. LEIA COM ATENÇÃO!**   
 > Os documentos e recortes contidos nesta pasta não tratam de teologia profunda, meditação transcendental ou iluminação espiritual. Este é o arquivo oficial das **disputas de ego, batalhas jurídicas, acusações de falso profetismo e fofocas históricas** que abalaram o cenário esotérico ocidental em diversos períodos da história.
 > 
-> Muitas das informações aqui são **altamente tendenciosas** e, como acontece com a maioria das coisas em meus repositórios, provavelmente não adicionarei notas ou correções. O material daqui está sendo arquivado puramente para fins de preservação histórica e, claro, fofoca esotérica de primeiríssima qualidade. Não use o conteúdo daqui como fonte fatual de nada. Leia com espírito arqueológico, divirta-se com a mesquinharia humana e lembre-se: nenhum mago foi imune a um bom barraco. 
-
+> Muitas das informações aqui são **altamente tendenciosas** e, como acontece com a maioria das coisas em meus repositórios, provavelmente não adicionarei notas ou correções. O material daqui está sendo arquivado puramente para fins de preservação histórica e, claro, fofoca esotérica de primeiríssima qualidade. Não use o conteúdo daqui como fonte fatual de nada.
+>
+> É importante ressaltar também que não traduzirei nenhum dos textos desta pasta, **a menos que seja solicitado**. Tenho muitos e não faz sentido traduzi-los, já que duvido que algum dos meus leitores brasileiros se interesse por dramas ocultistas de 30 anos atrás.
 ---
 
 ## 🏛️ Por que arquivar isso?
