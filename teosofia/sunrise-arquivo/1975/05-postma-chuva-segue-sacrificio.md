@@ -41,7 +41,7 @@ Se o sacrifício é tão claramente uma das leis da natureza, quando é que vamo
   
   ### Dados de Imprensa e Arquivo
   - **Formato do Material:** Ensaio de Filosofia
-  - **Linhagem/Tradição:** Teosofia Moderna
+  - **Linhagem/Tradição:** Tradição Nativa Americana (Pueblo/Hopi)
   - **Período Histórico:** Século XX (1975)
   - **Autor:** Ida Postma
   - **Publicação de Origem:** _Revista Sunrise: Theosophic Perspectives_
