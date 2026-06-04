@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<h3><b>✧ Artigos arquivados: 12/1070 ✧</b></h3>  
-<h3><b>✧ Artigos traduzidos: 12 ✧</b></h3>
+<h3><b>✧ Artigos arquivados: 16/1070 ✧</b></h3>  
+<h3><b>✧ Artigos traduzidos: 15 ✧</b></h3>
 
 </div>
 
