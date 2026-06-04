@@ -43,7 +43,7 @@ Talvez seja necessário um salto mental demasiado grande para a maioria das pess
   - **Autor:** Blair A. Moffett
   - **Publicação de Origem:** _Revista Sunrise: Theosophic Perspectives_
   - **Instituição Publicadora:** Theosophical University Press
-  - **Mês/Edição Original:** Junho/Julho
+  - **Mês/Edição Original:** Maio
   - **Idioma Original:** Inglês
   
   ### Bastidores da Tradução
