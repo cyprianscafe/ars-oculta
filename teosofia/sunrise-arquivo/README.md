@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<h3><b>✧ Artigos arquivados: 8/1070 ✧</b></h3>  
-<h3><b>✧ Artigos traduzidos: 8 ✧</b></h3>
+<h3><b>✧ Artigos arquivados: 12/1070 ✧</b></h3>  
+<h3><b>✧ Artigos traduzidos: 12 ✧</b></h3>
 
 </div>
 
@@ -35,9 +35,7 @@ Como estamos lidando com um acervo gigantesco que se estende **desde 1975 até o
 *   *Furando a Fila:* Se você sabe de um artigo específico de um ano mais recente que precisa ler com urgência em português, me envie o título ou tema. Eu posso arquivar e traduzir o texto sob demanda com total prioridade para você.
 
 ### 3. Master List
-Nem todos os artigos traduzidos da *Sunrise* vão morar fisicamente dentro desta pasta. Se um texto falar especificamente sobre Hermetismo, Sufismo ou Budismo, ele será movido para suas respectivas pastas temáticas na [*Biblioteca*](https://github.com/cyprianscafe/biblioteca-de-babel), [*Ars-Oculta*](https://github.com/cyprianscafe/ars-oculta) ou no subfolder de [Teosofia](https://github.com/cyprianscafe/ars-oculta/tree/main/teosofia).
-
-Para resolver isso, futuramente vou criar uma Master List centralizada aqui com links diretos apontando para onde cada artigo foi guardeado. Imagino que isso vai levar um tempo considerável. *Hang in there.* 
+Nem todos os artigos traduzidos da *Sunrise* vão morar fisicamente dentro desta pasta. Se um texto falar especificamente sobre Hermetismo, Sufismo ou Budismo, ele será movido para suas respectivas pastas temáticas na [*Biblioteca*](https://github.com/cyprianscafe/biblioteca-de-babel), [*Ars-Oculta*](https://github.com/cyprianscafe/ars-oculta) ou no subfolder de [Teosofia](https://github.com/cyprianscafe/ars-oculta/tree/main/teosofia). Se você clicar em um artigo e aparecer a mensagem de que ele está em uma pasta diferente, é exatamente por esse motivo. Basta clicar no link para ler o artigo.
 
 ---
 
