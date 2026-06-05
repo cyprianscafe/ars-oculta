@@ -14,14 +14,14 @@
 
 <div align="center">
 
-<h3><b>✧ Artigos arquivados: 21/1070 ✧</b></h3>  
-<h3><b>✧ Artigos traduzidos: 20 ✧</b></h3>
+<h3><b>✧ Artigos arquivados: 22/1071 ✧</b></h3>  
+<h3><b>✧ Artigos traduzidos: 21 ✧</b></h3>
 
 </div>
 
 ## 🗺️ Regras de Trânsito do Arquivo (Leia antes de navegar)
 
-Como estamos lidando com um acervo gigantesco que se estende **desde 1969 até os anos 2000**, este projeto é de longo prazo. Para não perder a sanidade, adotei as seguintes diretrizes:
+Como estamos lidando com um acervo gigantesco que se estende **desde 1970 até os anos 2000**, este projeto é de longo prazo. Para não perder a sanidade, adotei as seguintes diretrizes:
 
 ### 1. O Filtro de Tradução & Idiomas
 *   **Sufixo `_EN`:** Arquivos que terminam com `_EN` no nome estão no idioma original (inglês).
