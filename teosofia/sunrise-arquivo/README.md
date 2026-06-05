@@ -14,14 +14,14 @@
 
 <div align="center">
 
-<h3><b>✧ Artigos arquivados: 16/1070 ✧</b></h3>  
-<h3><b>✧ Artigos traduzidos: 15 ✧</b></h3>
+<h3><b>✧ Artigos arquivados: 21/1070 ✧</b></h3>  
+<h3><b>✧ Artigos traduzidos: 20 ✧</b></h3>
 
 </div>
 
 ## 🗺️ Regras de Trânsito do Arquivo (Leia antes de navegar)
 
-Como estamos lidando com um acervo gigantesco que se estende **desde 1975 até os anos 2000**, este projeto é de longo prazo. Para não perder a sanidade, adotei as seguintes diretrizes:
+Como estamos lidando com um acervo gigantesco que se estende **desde 1969 até os anos 2000**, este projeto é de longo prazo. Para não perder a sanidade, adotei as seguintes diretrizes:
 
 ### 1. O Filtro de Tradução & Idiomas
 *   **Sufixo `_EN`:** Arquivos que terminam com `_EN` no nome estão no idioma original (inglês).
@@ -31,10 +31,10 @@ Como estamos lidando com um acervo gigantesco que se estende **desde 1975 até o
 
 ### 2. Cronologia & Pedidos de Prioridade
 *   Os arquivos estão organizados por **Ano de Publicação**.
-*   A esteira de tradução segue a ordem cronológica tradicional: **do mais antigo para o mais recente**. 
+*   A esteira de tradução segue a ordem cronológica tradicional: **do mais antigo para o mais recente**. <sub>Com exceção dos primeiros ~50 artigos, que eu já traduzi fora de ordem... oops.</sub>
 *   *Furando a Fila:* Se você sabe de um artigo específico de um ano mais recente que precisa ler com urgência em português, me envie o título ou tema. Eu posso arquivar e traduzir o texto sob demanda com total prioridade para você.
 
-### 3. Master List
+### 3. Portal Links
 Nem todos os artigos traduzidos da *Sunrise* vão morar fisicamente dentro desta pasta. Se um texto falar especificamente sobre Hermetismo, Sufismo ou Budismo, ele será movido para suas respectivas pastas temáticas na [*Biblioteca*](https://github.com/cyprianscafe/biblioteca-de-babel), [*Ars-Oculta*](https://github.com/cyprianscafe/ars-oculta) ou no subfolder de [Teosofia](https://github.com/cyprianscafe/ars-oculta/tree/main/teosofia). Se você clicar em um artigo e aparecer a mensagem de que ele está em uma pasta diferente, é exatamente por esse motivo. Basta clicar no link para ler o artigo.
 
 ---
