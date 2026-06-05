@@ -50,7 +50,7 @@ No wonder that the first sunrise of the winter solstice was for the attained sou
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Imprensa e Arquivo
-  - **Formato do Material:** (Artigo de Revista, Resenha de Livro, Editorial, Ensaio Filosófico)
+  - **Formato do Material:** Artigo de Revista
   - **Linhagem/Tradição:** Paganismo Megalítico
   - **Período Histórico:** Século XX (1975)
   - **Autor:** Michael Cosser
