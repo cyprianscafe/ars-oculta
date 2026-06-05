@@ -3,7 +3,7 @@
 
 <p align="center"><samp>Excertos</samp></p>
 
-O relato da Natureza dá cor às alusões nos antigos mitos sobre o uso de cavernas para a iniciação nos Mistérios. Os montes eram cavernas artificiais, em muitos casos simbolizando a emergência da alma do ventre da natureza, da escuridão da imersão na matéria para a luz do espírito. Daí o seu uso no processo de iniciação, que marcava uma transmutação de caráter já alcançada e trazia à consciência os estágios do desdobramento de qualidades latentes que haviam sido atingidos.
+O relato da _Nature_ dá cor às alusões nos antigos mitos sobre o uso de cavernas para a iniciação nos Mistérios. Os montes eram cavernas artificiais, em muitos casos simbolizando a emergência da alma do ventre da natureza, da escuridão da imersão na matéria para a luz do espírito. Daí o seu uso no processo de iniciação, que marcava uma transmutação de caráter já alcançada e trazia à consciência os estágios do desdobramento de qualidades latentes que haviam sido atingidos.
 
 Essas cavernas, naturais ou artificiais, também eram usadas para outros ritos religiosos, ambos os propósitos ligados às quatro estações sagradas do ano: os solstícios de inverno e verão, e os equinócios de outono e primavera. Um exemplo disso é o importante comentário sobre o décimo terceiro livro da Odisseia de Homero , escrito por Porfírio e intitulado " Sobre a Caverna das Ninfas". Este tratado nos apresenta os fatores essenciais do ciclo iniciático, que visava evocar todas as potencialidades do indivíduo para que os aspectos inferiores do seu ser pudessem ser refinados e harmonizados com os superiores. A iniciação final ocorria como o ápice de muita purificação da psique e instrução teórica sobre a composição do homem e do universo do qual ele faz parte.
 
