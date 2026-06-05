@@ -62,7 +62,7 @@ No wonder that the first sunrise of the winter solstice was for the attained sou
   ### Bastidores da Tradução
   - **Data da Tradução:** 05.2026
   - **Projeto:** Projeto Pessoal
-  - **Status do Texto:** Traduzido integralmente (Concluído)
+  - **Status do Texto:** Seleção de Trechos Úteis
 
   ### Conexões e Busca
   - **Tags Principais:** Newgrange, Solstício de Inverno, Alinhamento Astronômico, Arqueoastronomia, Mistérios, Iniciação, Porfírio, Sobre a Caverna das Ninfas, Teotihuacan, Teofania
