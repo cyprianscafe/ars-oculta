@@ -69,25 +69,23 @@ Por mais intrigantes que sejam essas questões, o foco do nosso interesse perman
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Imprensa e Arquivo
-  - **Formato do Material:** (Artigo de Revista, Resenha de Livro, Editorial, Ensaio Filosófico)
+  - **Formato do Material:** Crítica Literária
   - **Linhagem/Tradição:** Teosofia Moderna
   - **Período Histórico:** Século XX (1975)
   - **Autor:** Ida Postma
   - **Publicação de Origem:** _Revista Sunrise: Theosophic Perspectives_
   - **Instituição Publicadora:** Theosophical University Press
-  - **Mês/Edição Original:** (Ex: Junho/Julho )
+  - **Mês/Edição Original:** Janeiro
   - **Idioma Original:** Inglês
   
   ### Bastidores da Tradução
   - **Data da Tradução:** 05.2026
   - **Projeto:** Projeto Pessoal
-  - **Status do Texto:** (Ex: Traduzido integralmente (Concluído), Seleção de Trechos Úteis, Apenas Arquivo-Texto_EN)
-  - **Notas de Tradução/Desafios:** 
+  - **Status do Texto:** Traduzido integralmente (Concluído)
 
   ### Conexões e Busca
-  - **Tags Principais:** 
-  - **Tags Adicionais:** 
-  - **Backlink:**
+  - **Tags Principais:** Voltaire, Esoterismo, Literatura Simbólica, Contos Filosóficos, Cândido, Zadig, Micromegas, Denise Bonhomme, H.P. Blavatsky, Conde de Saint-Germain
+  - **Tags Adicionais:** História da Filosofia, Iluminismo, Revolução Francesa, Sociedades Secretas do Século XVIII, Religião Natural, Teosofia, Mitologia Comparada, Sabedoria Antiga
 
 <sub>💬 *Gostaria de ver um artigo específico da Sunrise traduzido ou catalogado por aqui? Pedidos de tradução e furos na fila cronológica estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>   
 <sub>📧 *Se você quiser ler este artigo no idioma original, ou qualquer outro material de meus repositórios, arquivos ou blogs, envie um e-mail para: cyprianscafe@gmail.com*</sub>
