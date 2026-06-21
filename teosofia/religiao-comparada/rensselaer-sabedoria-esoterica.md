@@ -45,7 +45,7 @@ A falácia mencionada no primeiro parágrafo é, portanto, a de que é preciso i
   ### Conexões e Busca
   - **Tags Principais:** Esoterismo Ocidental, Gnosticismo, Neoplatonismo, Linhagem Iniciática, Heresia, História das Religiões
   - **Tags Adicionais:** Rosacruz, Iluminati, Maçonaria, Teosofia, Filosofia Comparada, Misticismo Renascentista
-  - **Backlink:** 06_06-rensselaer-sabedoria-esoterica.md
+  - **Backlink:** 06_07-rensselaer-sabedoria-esoterica.md
 
 <sub>💬 *Gostaria de ver um artigo específico da Sunrise traduzido ou catalogado por aqui? Pedidos de tradução e furos na fila cronológica estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>   
 <sub>📧 *Se você quiser ler este artigo no idioma original, ou qualquer outro material de meus repositórios, arquivos ou blogs, envie um e-mail para: contatocyprianscafe@gmail.com*</sub>
