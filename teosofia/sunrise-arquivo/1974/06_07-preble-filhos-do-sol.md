@@ -13,6 +13,6 @@
   <summary>Metadados Rápidos da Edição</summary>
   
   - **Autor:** Donna L. Preble
-  - **Mês/Edição Original:** Abril (1975)
+  - **Mês/Edição Original:** Abril (1974)
   - **Status:** Traduzido integralmente e movido para a pasta temática correspondente.
 </details>
