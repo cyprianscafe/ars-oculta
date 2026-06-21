@@ -4,7 +4,7 @@
 > **TEXTO TRADUZIDO E INDEXADO**  
 > Para facilitar a navegação temática e a pesquisa direta dos leitores, o texto completo e traduzido deste artigo foi catalogado na seção especializada relevante.
 
-🔗 **[Clique aqui para ler o texto completo](https://github.com/cyprianscafe/biblioteca-de-babel/blob/main/povos-nativos/hopi/postma-chuva-segue-sacrificio.md)**
+🔗 **[Clique aqui para ler o texto completo](https://github.com/cyprianscafe/indigenas-xamanicas/blob/main/america-do-norte/hopi/postma-chuva-segue-sacrificio.md)**
 
 ---
 
