@@ -22,7 +22,6 @@ A terapia não é real, é apenas um teatro no qual todos fingimos acreditar e d
   - **Link:** the%20system%20paradox.htm
   - **Idioma Original:** Inglês
  
-
 <sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>   
 <sub>📧 *Se você quiser ler este texto no idioma original, ou qualquer outro texto de meus repositórios, arquivos ou blogs, envie um e-mail para: contatocyprianscafe@gmail.com*</sub>
   
