@@ -6,6 +6,13 @@ Em um determinado nível de constelação consciente, contudo, os complexos — 
 
 O aspecto positivo dessa tendência à personificação reside na maior possibilidade de objetivar uma ideia ou complexo, o que favorece sua articulação e proporciona uma liberdade de expressão ampliada. O "complexo", no sentido clínico, pode ser visto, por assim dizer, como um novo termo para a "alma" (ou *anima*) grega — uma entidade que abriga uma pluralidade irredutível de perspectivas, cintilando e transformando-se em sua imagem translúcida. A alma possui essa natureza plural porque o inconsciente contém todas as percepções e conteúdos subliminares que, em potência, constituem uma visão total. No entanto, é preciso promover uma ampliação deliberada — acompanhada de um certo esmaecimento — da consciência do ego para tornar o inconsciente minimamente perceptível; afinal, quanto mais tentamos focar nele de maneira restrita, mais ele escapa ao nosso alcance.
 
+>Quem a si mesmo prende uma alegria   
+Destrói essa vida alada;   
+Mas quem apenas a beija enquanto ela voa   
+Viverá no alvorecer da eternidade.   
+><sub>—**William Blake**</sub>
+
+
 ---
 
 <details>
