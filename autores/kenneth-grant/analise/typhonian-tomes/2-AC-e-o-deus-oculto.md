@@ -22,7 +22,7 @@ Em última análise, embora o livro apresente alguns pontos positivos, ele não 
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Formato do Material:** Artigo (Pt. I)
+  - **Formato do Material:** Artigo
   - **Linhagem/Tradição:** Thelema
   - **Período Histórico:** 1997-1998
   - **Autor:** **John L. Smith**
